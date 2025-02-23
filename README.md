@@ -1,9 +1,3 @@
-
-### Project Team Number: 65
-### Team Members:
-      Aditya Sriram Seshadri
-      Nitharshan Coimbatore Venkatesan
-      Parimala Gutta
 ## Deployment Steps for the Project  
 
 ### 1. Kafka Deployment on GKE
